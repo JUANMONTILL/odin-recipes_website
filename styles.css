@@ -1,0 +1,30 @@
+.title {
+  color: rgb(255, 255, 255);
+  font-family: Helvetica, sans-serif;
+}
+.header {
+  color: rgb(150, 150, 62);
+  font-family: "Courier New", monospace;
+}
+.recipes {
+  color: hsl(0, 0%, 100%);
+  font-family: "Courier New", monospace;
+  font-size: 20px;
+}
+.recipes1 {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+  font-family: "Courier New", monospace;
+}
+.background {
+  background-color: rgb(46, 45, 54);
+}
+.background-1 {
+  background-color: black;
+}
+.background-2 {
+  background-color: rgb(80, 38, 78);
+}
+.background-3 {
+  background-color: hsl(281, 43%, 20%);
+}
